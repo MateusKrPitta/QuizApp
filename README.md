@@ -1,5 +1,5 @@
 # QuizApp
-Projeto realizado em Reac e JavaScript
+Projeto realizado em React e JavaScript
 1. Baixe o arquivo
 2. Abra o CMD dentro da pasta app-quiz
 3. Inicie o servidor com "npm run dev"
